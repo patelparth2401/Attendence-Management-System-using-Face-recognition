@@ -1,10 +1,10 @@
 # Attendence-Management-System-using-Face-recognition
 
 
-## 📌 Project Overview
+##  Project Overview
 This is a Python-based **Attendance Management System** that utilizes **face recognition** technology to mark students' attendance automatically. The project is built using the `face-recognition` library and features a **GUI developed with Tkinter**.
 
-## 🎯 Features
+##  Features
 - **User Authentication:**
   - Login and Signup system.
   - Special authentication for **Admin** and **Teachers**.
@@ -20,12 +20,12 @@ This is a Python-based **Attendance Management System** that utilizes **face rec
 - **Face Recognition:** `face-recognition` library
 - **Database:** (Specify if any database is used, e.g., SQLite, MySQL)
 
-## 🔥 Future Enhancements
+##  Future Enhancements
 - Implement **real-time video-based** attendance marking.
 - Integrate **lecture timing and frequency tracking** for accurate attendance marking.
 - Improve **model accuracy** for face recognition.
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/patelparth2401/Attendence-Management-System-using-Face-recognition.git
@@ -48,7 +48,7 @@ pip install face-recognition dlib opencv-python numpy
 
 > **Note:** `dlib` requires CMake and Visual Studio Build Tools (for Windows) to be installed.
 
-## 🎯 Usage Instructions
+##  Usage Instructions
 1. **Admin/Teacher Login:** Authenticate using your credentials.
 2. **Capture Classroom Image:** Take a picture of the class.
 3. **Automatic Attendance Marking:** The system will extract student faces, match them, and mark attendance.
@@ -57,6 +57,6 @@ pip install face-recognition dlib opencv-python numpy
 ## 👨‍💻 Contributors
 - **Parth Patel** ([GitHub](https://github.com/patelparth2401))
 
-## 📝 License
+##  License
 This project is open-source and available under the [MIT License](LICENSE).
 
